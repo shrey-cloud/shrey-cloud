@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shreya Gaikwad
 
-<!--
-**shrey-cloud/shrey-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI/ML systems at the intersection of machine learning, finance, and
+software engineering.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agentic AI workflows for financial analysis and decision support
+- NLP pipeline for financial headline sentiment classification (TF-IDF, logistic
+  regression)
+- Computer vision: lane detection with OpenCV; automated bore-diameter inspection
+  at Bajaj Auto
+
+## Stack
+
+Python, SQL, PyTorch, LLMs, RAG, AI agents, OpenCV, GCP / AWS / Azure
+
+## Background
+
+- MPS in Applied Machine Intelligence, concentration in AI for Finance,
+  Northeastern University, graduating April 2027
+- FP&A Intern at Alltech (finance automation)
+- Previously Consulting Analyst at Deloitte USI; R&D intern at Bajaj Auto
+- Looking for applied AI/ML engineering roles starting June 2027
+
+## Links
+
+- Portfolio: https://shrey-cloud.github.io
+- LinkedIn: https://www.linkedin.com/in/shreya-gaikwad-aai14
